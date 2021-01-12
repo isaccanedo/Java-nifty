@@ -1,9 +1,14 @@
 
 public class Main {
 	
+	/* +---------------------------------------------
+	 * | @author Isac Canedo
+	 * +---------------------------------------------
+	 */
+	
 	/*
 	 *  What statement returns true if "nifty" is of type String?
-	 *  (Qual declaração retorna verdadeiro se "nifty" for do tipo String?)
+	 *  (Qual declaraÃ§Ã£o retorna verdadeiro se "nifty" for do tipo String?)
 	 *  
 	 *  1 - "nifty" instanceof String ==> correct
 	 *  2 - "nifty" .getClass().getSimpleName() == "String"
